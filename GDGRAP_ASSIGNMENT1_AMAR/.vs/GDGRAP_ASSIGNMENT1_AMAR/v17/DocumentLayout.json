@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rambutan\\source\\repos\\GDGRAP_ASSIGNMENT_AMAR\\GDGRAP_ASSIGNMENT1_AMAR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0BC590-1245-436F-B561-32FBB267F409}|GDGRAP_ASSIGNMENT1_AMAR.vcxproj|C:\\Users\\Rambutan\\source\\repos\\GDGRAP_ASSIGNMENT_AMAR\\GDGRAP_ASSIGNMENT1_AMAR\\GDGRAP_ASSIGNMENT1_AMAR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D0BC590-1245-436F-B561-32FBB267F409}|GDGRAP_ASSIGNMENT1_AMAR.vcxproj|solutionrelative:GDGRAP_ASSIGNMENT1_AMAR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GDGRAP_ASSIGNMENT1_AMAR.cpp",
+              "DocumentMoniker": "C:\\Users\\Rambutan\\source\\repos\\GDGRAP_ASSIGNMENT_AMAR\\GDGRAP_ASSIGNMENT1_AMAR\\GDGRAP_ASSIGNMENT1_AMAR.cpp",
+              "RelativeDocumentMoniker": "GDGRAP_ASSIGNMENT1_AMAR.cpp",
+              "ToolTip": "C:\\Users\\Rambutan\\source\\repos\\GDGRAP_ASSIGNMENT_AMAR\\GDGRAP_ASSIGNMENT1_AMAR\\GDGRAP_ASSIGNMENT1_AMAR.cpp",
+              "RelativeToolTip": "GDGRAP_ASSIGNMENT1_AMAR.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAAAawF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T08:47:35.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
